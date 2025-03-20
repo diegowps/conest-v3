@@ -1,0 +1,62 @@
+/* input id */
+#idClient, #idProduct {
+    display: none;
+}
+
+/* botões */
+.button img {
+    margin: 50px 15px 25px 15px;
+    padding: 5px;
+    border: 1px solid #e8e8e8;
+    cursor: pointer;
+}
+
+/* Botão reset */
+#btnReset {
+    width: 48px;
+    height: 48px;
+    background-image: url('../img/clear.png');
+    border: none;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+/* rodapé */
+footer {
+    background-color: #007acc;
+    width: 100%;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: fixed;
+    bottom: 0;
+}
+
+footer p {
+    color: #fff;
+    margin: 0px 0px 0px 10px;
+}
+
+footer img {
+    margin-right: 10px;
+}
+
+/* Imagem do produto */
+#imageProductPreview {
+    border: 1px solid #dfdfdf;
+    border-radius: 5px;
+    width: 260px;
+    height: 260px;
+
+    display: block; /* ajuste 16/02 */
+    object-fit: contain; /* ajuste 16/02 */
+   /* object-fit: cover; /* ajuste 16/02 */ 
+
+    padding: 5px;
+    position: fixed;
+    right: 45px;
+    bottom: 20px;
+    display: block;
+    object-fit: contain; /* object-fit: cover; */
+}
