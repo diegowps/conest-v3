@@ -1,0 +1,37 @@
+Atividade 1:
+SETUP do projeto (GitHub, estrutura de pastas, instalação do electron)
+
+Atividade 2:
+CRUD Create (Clientes)
+
+Atividade 3:
+CRUD Read (Clientes)
+
+Atividade 4:
+CRUD Update (Clientes)
+
+Atividade 5:
+CRUD Delete (Clientes)
+
+Atividade 6:
+Validação do botão acessar site: impedir a abertura do explorador de arquivos se formato do site inválido.
+
+Atividade 7:
+Tela de produtos:
+- Organização do layout pensando na imagem
+- Implementar busca por código de barras e por nome (livre escolha da lógica)
+
+Atividade 8:
+Tela de clentes e fornecedores:
+- CPF único (alerta avisando que já existe cadastrado e UX - limpar campo e foco em vermelho)
+
+Atividade 9:
+Tela de produtos:
+- Acrescentar os campos indicados pelo professor(data, fornecedor, quantidade, unidade, valor etc.)
+- data automática (campo travado) formatado para pt-br
+- fornecedor (lista automática de opções com os fornecedores cadastrados - ordem alfabética)
+
+Atividade 10:
+Relatórios:
+- Criar no mínimo 3 relatórios com ícones na tela relatórios e menu
+  (clientes, fornecedores e produtos)
